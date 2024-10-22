@@ -4,11 +4,11 @@
 
 !.gitignore
 
-!swaylock/
-!rofi/
-!hypr/
-!kitty/
-!pulse/
-!swayidle/
-!waybar/
-!JetBrains/
+!swaylock/**
+!rofi/**
+!hypr/**
+!kitty/**
+!pulse/**
+!swayidle/**
+!waybar/**
+!JetBrains/**

@@ -1,0 +1,64 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "MarketplacePluginsSearchHistory": "copilot",
+    "NextRunPlatformUpdateBuild": "IU-242.23339.11",
+    "NextRunPlatformUpdateVersion": "2024.2.3",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "evlsprt3.242": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "242.22855.74",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
+    "ide.memory.adjusted": "true",
+    "ift.hide.welcome.screen.promo": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "242.22855.74-IJ",
+    "jdk.selected.JAVA_MODULE": "22",
+    "last_opened_file_path": "/home/ludvik/Code/Inventory-Sub-Horizon-Backend",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IU-242.22855.74",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/ludvik/Code/Inventory-Sub-Horizon-Backend"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Inventory-Sub-Horizon-Backend-history" project-path="/home/ludvik/Code/Inventory-Sub-Horizon-Backend" last-access-time="1728848749637" />
+    </command-history-files>
+  </component>
+</application>

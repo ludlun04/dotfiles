@@ -1,0 +1,24 @@
+<project version="4">
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 1,
+      "lastUsed": 1729351673017
+    }
+  }
+}]]></component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1729351673017" />
+    </language>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/hill.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
