@@ -1,1 +1,1 @@
-timeout 300 'dim -d 30 && dim -d 10 -a 1 && swaylock'
+timeout 600 'dim -d 30 && dim -d 10 -a 1 && swaylock'
